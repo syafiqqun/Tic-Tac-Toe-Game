@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/c chords piano.ogg-cb78c80e99935d9b7dbc367492285319.oggstr"
+
+[deps]
+
+source_file="res://Assets/sounds_fx/c chords piano.ogg"
+dest_files=[ "res://.import/c chords piano.ogg-cb78c80e99935d9b7dbc367492285319.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
